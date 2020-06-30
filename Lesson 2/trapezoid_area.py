@@ -1,0 +1,10 @@
+b1 = 8
+b2 = 13
+h = 7
+area = (b1 + b2) * h / 2
+print('Trapezoid area = ' + str (area))
+b1 = 12
+b2 = 8
+h = 5
+area = (b1 + b2) * h / 2
+print('Trapezoid area = ' + str (area))
